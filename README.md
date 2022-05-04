@@ -1,5 +1,5 @@
 # awesome-esl
-Awesome resources to read [the Elements of Statistical Learning](https://hastie.su.domains/Papers/ESLII.pdf)
+Awesome resources to understand [the Elements of Statistical Learning](https://hastie.su.domains/Papers/ESLII.pdf)
 
 [Github]
 - https://github.com/ajtulloch/Elements-of-Statistical-Learning
